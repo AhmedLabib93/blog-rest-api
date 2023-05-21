@@ -1,5 +1,4 @@
 # blog-rest-api
-# Read Me First
 The Project is Demonstiration for Rest APIs in Blog App
 Project include:
 * Spring Boot
